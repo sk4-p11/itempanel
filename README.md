@@ -34,4 +34,4 @@ tf_weapon_knife.txt - letrangerbreadsapperKUNAI2 <br />
 <br />
 1. find which loadout you want <br />
 2. open itempanel/scripts/ <br />
-3. open the txt files in itempanel/scripts/ and replace the vtf file name with the one corresponding to your loadout <br />
+3. open the txt files in itempanel/scripts/ and replace the vtf file name with the one corresponding to your loadout in the "crosshair" section <br />
