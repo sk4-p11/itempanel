@@ -1,4 +1,7 @@
 # itempanel
+This is a crosshair folder. <br />
+put this in your custom folder. <br />
+if you already have a crosshair folder, either replace it or drag the vtf files from this folder to yours. <br />
 The default loadout or image preset is set to letranger sapper kunai. <br />
 you cannot change this in game. <br />
 if you are using the ambassador loadout, you will need to find a way to make your crosshair static so it doesnt change the crosshair scale when holding the weapon. <br />
