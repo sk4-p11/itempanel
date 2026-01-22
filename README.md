@@ -1,9 +1,11 @@
 # itempanel
-The default loadout or image preset is set to letranger sapper kunai. 
-you cannot change this in game.
-if you are using the ambassador loadout, you will need to find a way to make your crosshair static so it doesnt change the crosshair scale when holding the weapon.
->>>>>>>>>> cl_crosshair_scale 30 <<<<<<<<<<<<<
->>>>>>>>>> cl_crosshair_file "" <<<<<<<<<<<<<
+The default loadout or image preset is set to letranger sapper kunai. <br />
+you cannot change this in game. <br />
+if you are using the ambassador loadout, you will need to find a way to make your crosshair static so it doesnt change the crosshair scale when holding the weapon. <br />
+USE THESE COMMANDS: <br />
+cl_crosshair_scale 30 <br />
+cl_crosshair_file "" <br />
+
 
 ////////////// loadouts ////////////////////
 
